@@ -1,0 +1,10 @@
+body {
+  background-color: rgba(247, 108, 108, 0.829);
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(19, 230, 219, 0.959);
+}
+
